@@ -45,7 +45,6 @@ Reproducible NixOS systems for the AWS cloud, plus batteries-included, self-host
 
 ### 🌟 Awesome lists
 
-- [**awesome-flake-parts**](https://github.com/wearetechnative/awesome-flake-parts) — curated flake-parts resources, modules, and examples for Nix flakes
 - [**awesome-finops**](https://github.com/wearetechnative/awesome-finops) — everything awesome on FinOps
 - [**awesome-technative**](https://github.com/wearetechnative/awesome-technative) — what our engineers need to know
 
